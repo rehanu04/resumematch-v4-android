@@ -75,11 +75,12 @@ The project is split into two distinct codebases communicating via a RESTful arc
 ---
 
 ## 📸 Showcase
-*(Note: Add your GIFs and screenshots here! Show off the 3D Orb, the Resume Analyzer, and the Recruiter Feedback screen.)*
+<img width="540" height="1107" alt="RMV3-1" src="https://github.com/user-attachments/assets/3a39bf56-0194-403a-aa6d-f37f8ffe43f9" />
+<img width="540" height="1107" alt="RMV3-2" src="https://github.com/user-attachments/assets/4947feb0-9770-428d-8df0-55f975d44e57" />
+<img width="540" height="1107" alt="RMV3-3" src="https://github.com/user-attachments/assets/89edbeb1-f4b3-4993-bbd6-cb62f5ec3d7f" />
+<img width="540" height="1107" alt="RMV3-4" src="https://github.com/user-attachments/assets/f660047a-8797-441f-ad68-26266dfbcf01" />
+<img width="540" height="1107" alt="RMV3-5" src="https://github.com/user-attachments/assets/6b5fdeaf-e0fe-4845-afa7-9fbb79e29b61" />
 
-* 
-* 
-* 
 
 ---
 
@@ -90,5 +91,3 @@ The project is split into two distinct codebases communicating via a RESTful arc
 ---
 *Designed and engineered by Rehan.*
 ```
-
-***
